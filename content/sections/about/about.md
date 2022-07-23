@@ -3,12 +3,13 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am a self-taught developer with a passion for building cool projects which
+help me gain valuable experience. I make sure to hold myself accountable
+for the times I have dedicated to programming in my schedule. I am 
+currently learning React and will build some projects to add to my
+portfolio. Learning how technologies work under the hood is intriguing
+to me.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Some areas of interest to me are that I am a big sports fan, enjoy exercising, learning about Investing, and of course Programming. My favorite sports teams are the Phillies, Eagles, and Clippers. Weightlifting and running are a consistent part of my weekly routine. I enjoy learning about how to improve my wealth via purchasing productive assets. I am in the middle of my coding journey and trusting the process of applying the concepts I've learned to lead me further along.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link">
