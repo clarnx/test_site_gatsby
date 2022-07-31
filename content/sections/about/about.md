@@ -1,15 +1,11 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/my-picture.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I am a self-taught developer with a passion for building cool projects which
-help me gain valuable experience. I make sure to hold myself accountable
-for the times I have dedicated to programming in my schedule. I am 
-currently learning React and will build some projects to add to my
-portfolio. Learning how technologies work under the hood is intriguing
-to me.
+Greetings everyone! let's jump in. I am currently an English as a Second Language teacher at a University with a focus on spoken English.It has been a fulfilling and challenging  experience to live in a foreign country. I really enjoy investing/trading financial markets and was lucky enough to come by the Bitcoin/Ethereum protocols. Early on I learned the core functionality of these two blockchains, but didn't understand much about the source code. My intellectual curiosity drove me to start learning web development beginning with my first JavaScript course. As we rapidly move into a more technological world, and I am connected with more devices/applications than ever it has sparked a deeper interest in me to learn how it works and operates beyond the UI. This lead me to officially kick off my software development journey and start crafting projects that help build a strong foundation as an engineer. I like to work in React JS because of it's ability to bring many components together that provide a dynamic interface for users.  
 
-Some areas of interest to me are that I am a big sports fan, enjoy exercising, learning about Investing, and of course Programming. My favorite sports teams are the Phillies, Eagles, and Clippers. Weightlifting and running are a consistent part of my weekly routine. I enjoy learning about how to improve my wealth via purchasing productive assets. I am in the middle of my coding journey and trusting the process of applying the concepts I've learned to lead me further along.
+I am also a lifetime basbeall player and a big sports fan. I am intrigued with the evolution in sports analytics (Sabermetrics/Statcast) in particular, and how they impact business decisions. When I am away from the computer I like to be outside in the natural world, spend meaningful time with the people I care about, and take my health/diet seriously by exercising and eating nutritous food. From the core of it all I am in love with learning and using technology to solve meaningful problems.
+
 
 <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link">

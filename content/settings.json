@@ -5,15 +5,15 @@
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
+      "behance": "",
       "github": "https://github.com/Charles-CarM",
       "medium": "",
       "linkedin": "https://www.linkedin.com/in/charlescarmichaellutz/",
-      "mail": ""
+      "mail": "mailto:bigFish14@mail.com"
     }
   },
   "siteConfiguration": {
@@ -28,11 +28,10 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/CharlesLutz.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+       
       ]
     },
     "featureToggles": {
