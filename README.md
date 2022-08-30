@@ -4,7 +4,7 @@
 A static website developed entirely using HTML, CSS, and Gatsby JS.
 
 
-#### check it out [here]
+#### check it out [here](https://charles-carm.github.io/portfolio-site/)
 
 
 ---
