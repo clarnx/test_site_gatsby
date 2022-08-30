@@ -3,13 +3,12 @@
     {
       "visible": true,
       "category": "React JS ",
-      "title": "Star Wars API",
-    "description": "An application developed using React hooks and asynchronous JavaScript that gets data back from a REST API and displays Star Wars characters in a table .",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Star Wars Explore",
+    "description": "An application developed using React hooks and asynchronous JavaScript that gets data back from a REST API and populates Star Wars characters in a table.", 
       "image": {
-        "src": "../../images/starwars.populate.PNG",
+        "src": "../../images/strwars.JPG",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/Charles-CarM/Star-Wars-API"
+        "linkTo": "https://star-wars-explore-react.herokuapp.com/"
       },
       "links": [
         {
@@ -18,29 +17,7 @@
         },
         {
           "type": "external",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "Vanilla JS",
-      "title": "Amazing Calculator",
-      "description": "A calculator that performs simple and continuous arithmetic problems written fully in vanilla JavaScript, HTML, and CSS.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/calculator.JPG",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github.com/Charles-CarM/Calculator"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Charles-CarM/Calculator"
-        },
-        {
-          "type": "external",
-          "url": ""
+          "url": "https://star-wars-explore-react.herokuapp.com/"
         }
       ]
     },
@@ -49,7 +26,6 @@
       "category": "React JS",
       "title": "Expense Tracker",
     "description": "An awesome Expense Tracker developed using the React library, Vanilla JavaScript, and CSS.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/expense.JPG",
         "alt": "Quick Setup",
@@ -63,6 +39,27 @@
         {
           "type": "external",
           "url": "https://theincrediblejourney.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Vanilla JS",
+      "title": "Amazing Calculator",
+      "description": "A calculator that performs simple and continuous arithmetic operations written fully in vanilla JavaScript, HTML, and CSS.",
+      "image": {
+        "src": "../../images/calculator.JPG",
+        "alt": "Extendable Layout",
+        "linkTo": "https://charles-carm.github.io/Calculator/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Charles-CarM/Calculator"
+        },
+        {
+          "type": "external",
+          "url": "https://charles-carm.github.io/Calculator/"
         }
       ]
     }
