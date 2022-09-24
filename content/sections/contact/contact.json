@@ -3,7 +3,7 @@
   "button" : "click me",
   "description": "Would you like to work with me?",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/favicon.jpg",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {

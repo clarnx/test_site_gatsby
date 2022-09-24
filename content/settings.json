@@ -13,11 +13,11 @@
       "github": "https://github.com/Charles-CarM",
       "medium": "",
       "linkedin": "https://www.linkedin.com/in/charlescarmichaellutz/",
-      "mail": "mailto:charlie_lutz21@yahoo.com"
+      "mail": "mailto:LutzDev@proton.me"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Welcome" },
+    "logo": { "text": "Greetings" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
