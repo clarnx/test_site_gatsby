@@ -4,9 +4,8 @@ import { LegalSection, Page, Seo } from "gatsby-theme-portfolio-minimal";
 export default function ImprintPage() {
   return (
     <>
-      
+      <Seo title="Imprint" useTitleTemplate={true} noIndex={true} />
       <Page>
-        <Seo title="Imprint" useTitleTemplate={true} noIndex={true} />
         <LegalSection sectionId="imprint" heading="Imprint" />
       </Page>
     </>
