@@ -8,9 +8,6 @@
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
-  "engines": {
-    "node": ">=16.0.0"
-  },
   "dependencies": {
     "gatsby": "^4.18.2",
     "gatsby-theme-portfolio-minimal": "*",
